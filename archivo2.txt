@@ -1,2 +1,0 @@
-Programa en GitHub desde Git BASH
-Aplicando nuevos cambios
